@@ -1,0 +1,10 @@
+*.class
+*.log
+*.ctxt
+.mtj.temp/
+*.jar
+*.war
+*.zip
+.idea
+*.iml
+
